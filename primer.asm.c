@@ -1,0 +1,8 @@
+"xor %rax,%rax\n"
+"xor %rbx,%rbx\n"
+"xor %rcx,%rcx\n"
+"xor %rdx,%rdx\n"
+//"xor rax,rax\n"
+//"xor rbx,rbx\n"
+//"xor rcx,rcx\n"
+//"xor rdx,rdx\n"
